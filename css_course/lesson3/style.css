@@ -1,0 +1,14 @@
+body{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background-color:  papayawhip;
+    color: darkblue ; /*color: rgb(0,250,0) this is a rgb color */
+    /*  */
+}
+
+p{
+    color: rgba(0, 0, 0,0.5); /* this is rgba color a is opacity */
+    /* coolors.co choosing appropriate color and setting good contrast up */
+
+}
