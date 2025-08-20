@@ -1,0 +1,29 @@
+
+body{
+    font-size: 22px;
+    /* this is body css selector  */
+}
+h1,h2{
+    color: blue;
+}
+
+
+p{
+    color: purple;
+    /* this is paragraph css selector */
+}
+
+p span{
+    text-transform: uppercase;
+    background-color: gold;
+}
+
+.gray{
+    color: gray;
+    /* this is a class selector of css */
+}
+
+#second{
+    font-style: italic;
+    /* this is a id selector of css */
+}
