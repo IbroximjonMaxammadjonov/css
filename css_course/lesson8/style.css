@@ -1,0 +1,33 @@
+
+
+ol{
+    list-style: lower-alpha;
+    padding: 0;
+}
+
+ul{
+    list-style: square;
+    list-style-position: outside;
+    color: blue;
+    line-height: 1.8;
+    /* list-style-image: url(/images/tulips.jpg); */
+    
+}
+
+ul li{
+    color: red;
+}
+
+u li:nth-child(odd){
+    color: blue;
+}
+
+ul ::marker{
+    color: black;
+    width: 30;
+    height: 30;
+    object-fit: fill;
+    font-size: 1.5rem;
+    content: "tasks: ";
+
+}
