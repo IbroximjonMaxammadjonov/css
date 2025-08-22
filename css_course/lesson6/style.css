@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+
+
+body {
+    padding: 10%;
+    width: 20%;
+    font-size: 2rem;
+}
+
+input,button{
+    font: inherit;
+    color:inherit
+}
+
+p {
+    text-decoration: wavy;
+    text-transform: lowercase;
+    text-align: left;
+    text-indent: 1em;
+    font-family: 'Roboto Mono',monospace;
+}
